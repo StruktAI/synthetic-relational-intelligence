@@ -1,6 +1,11 @@
 # KinAI: Synthetic Relational Intelligence (SRI)
-
+---
 > “AI that remembers you. Reflects you. Evolves with you.”
+---
+
+![resized_banner_with_bgcolor](https://github.com/user-attachments/assets/02a6bd67-ef82-4941-a62e-d3fc48bafa0d)
+
+---
 
 This isn’t just a smarter assistant. This is a new category of AI.
 
